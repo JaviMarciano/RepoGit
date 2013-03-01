@@ -1,6 +1,7 @@
 est es una modificacion ke hice yo papalu
 el que se meta con mi cambio 
 va a estar 
+<<<<<<< HEAD
 en el horno
 
 ****** por aqui anduvo julay!!
@@ -9,3 +10,10 @@ en el horno
 locoooooooooooooo!!!
 
 
+=======
+en el horno 
+locoooooooooooooo!!!
+esto es lo maximo 
+si logramos poder fixear los kilombos
+con un mergetool !!!
+>>>>>>> 71e85058acc8f72a809aac7e6e59fc2a724676fe
