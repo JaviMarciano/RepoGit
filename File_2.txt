@@ -5,3 +5,8 @@ I was having the same problem, but making sure to use my actual GitHub password 
 The reason it is important to note this, is many public institutions (such as my school) will block SSH, but allow HTTPS (which is the only reason I started cloning over HTTPS in the first place).
 
 Hope that helps anyone else having the same issue...
+
+
+mnmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmm
