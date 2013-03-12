@@ -1,10 +1,10 @@
-commit master
+commit refs/heads/master
 committer Alice <alice@example.com> Thu, 01 Jan 1970 00:00:00 +0000
 data <<EOT
 Initial commit.
 EOT
 
-M 100644 inline hello.c
+M 100644 inline test1.cs
 data <<EOT
 #include <stdio.h>
 
@@ -15,13 +15,13 @@ int main() {
 EOT
 
 
-commit master
+commit refs/heads/master
 committer Bob <bob@example.com> Tue, 14 Mar 2000 01:59:26 -0800
 data <<EOT
 Replace printf() with write().
 EOT
 
-M 100644 inline hello.c
+M 100644 inline test1.cs
 data <<EOT
 #include <unistd.h>
 
