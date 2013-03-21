@@ -5,18 +5,4 @@ este es te problema con el conflicto
  
 La forma adecuada de hacerlo con Git es crear una nueva rama con el nombre de la nueva funcionalidad donde añadiremos nuestros cambios y después cambiaremos a ella (git branch switching).
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
-
-
-si funcaaaaaaaaaaaaaaaaa
+Javi
